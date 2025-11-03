@@ -1,1 +1,1 @@
-"This is my GitHub assignment." 
+"This is my github assignment" 
